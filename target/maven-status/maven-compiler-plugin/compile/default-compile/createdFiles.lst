@@ -1,0 +1,11 @@
+br/com/rmagnossao/login/model/Info.class
+br/com/rmagnossao/login/controller/LoginController.class
+br/com/rmagnossao/login/Application.class
+br/com/rmagnossao/login/repository/InfoRepository.class
+br/com/rmagnossao/login/config/Config.class
+br/com/rmagnossao/login/service/impl/LoginServiceImpl.class
+br/com/rmagnossao/login/repository/LoginRepository.class
+br/com/rmagnossao/login/model/LoginResponse.class
+br/com/rmagnossao/login/repository/InfoRepository$InfoMapper.class
+br/com/rmagnossao/login/repository/LoginRepository$LoginMapper.class
+br/com/rmagnossao/login/service/LoginService.class

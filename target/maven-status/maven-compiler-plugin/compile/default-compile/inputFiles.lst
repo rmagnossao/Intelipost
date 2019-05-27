@@ -1,0 +1,9 @@
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/model/LoginResponse.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/model/Info.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/controller/LoginController.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/Application.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/service/LoginService.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/service/impl/LoginServiceImpl.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/config/Config.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/repository/InfoRepository.java
+/Users/rodrigomagnossao/Documents/Projetos/Alura/SpringBoot/intelipostLogin/src/main/java/br/com/rmagnossao/login/repository/LoginRepository.java
